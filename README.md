@@ -1,5 +1,5 @@
-### Hi there 👋
-
+I am Sinan Muhammed 
+I am a Mern Stack Developer
 <!--
 **Sinan-muhammed/Sinan-muhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
